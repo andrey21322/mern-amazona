@@ -1,9 +1,9 @@
 # mern-amazona
 
-# first terminal
+# FIRST TERMINAL
 cd frontend -> npm install --force -> npm run start
 
-# second terminal
+# SECOND TERMINAL
 cd backend -> npm install -> npm run start
 
 # use this data to signin 
