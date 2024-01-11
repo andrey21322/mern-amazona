@@ -1,5 +1,11 @@
 # mern-amazona
 
+# ABOUT PROJECT
+This RESTfull app is full copy amazon store. Here is auth/register logic (with admin root), crud components, perosonal orders and order history, reviews and all this is connected with database (MongoDB)
+
+# HOW TO INSTALL
+install this project from my github and open two terminals with project folder
+
 # FIRST TERMINAL
 cd frontend -> npm install --force -> npm run start
 
