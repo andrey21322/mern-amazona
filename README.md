@@ -5,9 +5,13 @@ This RESTfull app is amazon like app.
 Here is: 
 
 Auth/register logic (with roles)
-Products cards, that can edit\delete only admin, 
+
+Products cards, that can edit\delete only admin
+
 Perosonal orders and order history
+
 Reviews 
+
 Project is running on MongoDB
 
 # HOW TO INSTALL
