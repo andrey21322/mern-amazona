@@ -13,11 +13,15 @@ Project is running on MongoDB
 Project consist of back-end (Node.js, Express.js, Mongoose) and front-end parts (React.js, React hooks)
 
 To install Back-end go to /backend directory and type:
+
 npm install  
+
 npm run start
 
 To install Front-end go to /frontend directory and type:
+
 npm install —force 
+
 npm run start
 
 # Credentials for login
